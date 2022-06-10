@@ -13,7 +13,7 @@
   - APIs
   - Comunidade e Blog
 - Setup:
-  - Instalação do chocolatey
+  - Instalação do Chocolatey
   - Node
   - Java 11
   - Yarn
@@ -21,7 +21,7 @@
 - Criação do projeto:
   - Uso do react native CLI
   - Estrutura de pasta
-- Projeto Proflie:
+- Projeto Profile:
   - View
   - Flexbox
   - Text
