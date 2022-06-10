@@ -30,4 +30,4 @@
   - Array de Style
   - Criar botão com Pressable
   - Image  
-  - Liking API
+  - Linking API
