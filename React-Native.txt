@@ -1,0 +1,24 @@
+Possibilita o desenvolvimento de aplicações android e ios.
+Originado pelo facebook disponibilizado em 2015.
+
+Cross Plataform: capacidade de rodar em mais de uma plataforma
+
+VANTAGENS:
+- desenvolvimento rápido
+- seguro, muito tempo no mercado
+- vagas
+
+
+
+CONHECENDO A DOCUMENTAÇÃO ->
+COMPONENTES:
+View, Text, TextInput, ScrollView...
+
+APIs:
+APIs de IOS e android
+AparÃªncia
+Registro
+settings
+
+BLOG E COMUNIDADE:
+ver todas as notí­cias e atalizações
